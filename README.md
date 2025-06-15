@@ -14,9 +14,10 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:pedro10pedrolck1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/pedro-oliveira-666a40356)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=e37575&color=FFF)](https://www.instagram.com/peteer_lck/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white&color=d63c3c)](https://portfolio-nine-woad-31.vercel.app/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=e37575)](mailto:pedro10pedrolck1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white&color=e37575)](https://www.linkedin.com/in/pedro-oliveira-666a40356)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white&color=e37575)](https://www.instagram.com/peteer_lck/)
 
 
 <h3 align="left">My Stack ~</h3>
