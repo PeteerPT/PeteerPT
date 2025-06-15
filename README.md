@@ -41,10 +41,16 @@
 #
 
 <table align="center">
+  <tr>
+    <td>
       <img height="180em"
            src="https://github-readme-stats.vercel.app/api?username=PeteerPT&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula" />
+    </td>
+    <td>
       <img height="180em"
            src="https://github-readme-stats.vercel.app/api/top-langs?username=PeteerPT&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+    </td>
+  </tr>
 </table>
 
 #
